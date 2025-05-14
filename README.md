@@ -1,7 +1,7 @@
 # WireGuard Config Generator
 
 ![WireGuard](https://img.shields.io/badge/WireGuard-Config%20Generator-blue) ![License](https://img.shields.io/badge/License-MIT-green)
-![Visitor Count](https://komarev.com/ghpvc/?username=Argh94&repo=WireGuardConfigGenerator-worker&label=Profile Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=Argh94&repo=WireGuardConfigGenerator-worker&label=ProfileViews)
 
 یک ابزار ساده و قدرتمند مبتنی بر Cloudflare Workers برای تولید کانفیگ‌های WireGuard. این پروژه به شما اجازه می‌ده توی چند ثانیه کانفیگ‌های VPN سفارشی برای استفاده استاندارد یا گیمینگ بسازید، با رابط کاربری زیبا و کاربرپسند به زبان فارسی.
 
